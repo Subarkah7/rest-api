@@ -1,0 +1,23 @@
+[ 
+    {
+        "nama" : "subarkah",
+        "umur" : 21,
+        "nim" : "16523221",
+        "lulus" : false,
+        "hobby" : ["coding", "futsal", "belajar"],
+        "pembimbing" : {"pembimbing1" : "Bu ",
+        "pembimbing2" : "Bapak"}
+    },
+    {
+        "nama" : "arif",
+        "umur" : 21,
+        "nim" : "16523221",
+        "lulus" : false,
+        "hobby" : ["coding", "futsal", "belajar"],
+        "pembimbing" : {"pembimbing1" : "Bu ",
+        "pembimbing2" : "Bapak"}
+    }
+
+
+
+]
